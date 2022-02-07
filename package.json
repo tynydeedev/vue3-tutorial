@@ -20,7 +20,8 @@
     "start:router": "yarn vite --config vite.config.js router/",
     "start:router-options": "yarn vite --config vite.config.js router-options/",
     "start:vuex": "yarn vite --config vite.config.js vuex/",
-    "start:vuex-options": "yarn vite --config vite.config.js vuex-options/"
+    "start:vuex-options": "yarn vite --config vite.config.js vuex-options/",
+    "start:photos": "yarn vite --config vite.config.js photos/"
   },
   "author": "tynydeedev",
   "license": "ISC",
