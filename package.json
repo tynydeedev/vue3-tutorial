@@ -18,7 +18,9 @@
     "start:composition": "yarn vite --config vite.config.js composition/",
     "start:microblog": "yarn vite --config vite.config.js microblog/",
     "start:router": "yarn vite --config vite.config.js router/",
-    "start:router-options": "yarn vite --config vite.config.js router-options/"
+    "start:router-options": "yarn vite --config vite.config.js router-options/",
+    "start:vuex": "yarn vite --config vite.config.js vuex/",
+    "start:vuex-options": "yarn vite --config vite.config.js vuex-options/"
   },
   "author": "tynydeedev",
   "license": "ISC",
