@@ -13,7 +13,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "start": "yarn vite --config vite.config.js composition/"
+    "start": "yarn vite --config vite.config.js microblog/"
   },
   "author": "tynydeedev",
   "license": "ISC",
